@@ -1,4 +1,5 @@
 ﻿internal class Program
+//bai 1
 {
     private static void Main(string[] args)
     {
@@ -9,3 +10,4 @@
         Console.Write($"Tong hai so a va b: = {a + b}");
     }
 }
+//bai 2
